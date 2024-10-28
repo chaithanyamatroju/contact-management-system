@@ -39,7 +39,7 @@ This Contact Management System allows users to register, log in, and manage thei
 Ensure you have the following installed:
 - Node.js
 - Git
-- MongoDB (if using MongoDB as the database)
+- SQL (if using MongoDB as the database)
 - Visual Studio Code (recommended)
 
 ### Setup
